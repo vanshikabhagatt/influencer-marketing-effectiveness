@@ -1,0 +1,10 @@
+Datasets used in this project (not included due to Kaggle redistribution policy):
+
+1. Influencer Marketing ROI Dataset
+   https://www.kaggle.com/datasets/tfisthis/influencer-marketing-roi-dataset
+
+2. Influencer Campaign Performance (Power BI Dataset)
+   https://www.kaggle.com/datasets/divyamehulmak/influencer-marketing-campaign-analysis-power-bi
+
+3. Social Media Sponsorship and Engagement Dataset
+   https://www.kaggle.com/datasets/omenkj/social-media-sponsorship-and-engagement-dataset
